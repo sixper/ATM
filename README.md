@@ -9,3 +9,7 @@ It is have 4 operations to do:
 4. Exit
 
 ![Contribution guidelines for this project](img/1.png)
+
+![Contribution guidelines for this project](img/2.png)
+
+![Contribution guidelines for this project](img/3.png)
