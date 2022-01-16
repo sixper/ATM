@@ -9,4 +9,4 @@ It is have 4 operations to do:
 4. Exit
 
 
-![alt text](https://https://github.com/sixper/ATM/blob/master/img/1.png?raw=true)
+[Contribution guidelines for this project](ATM/1.png)
